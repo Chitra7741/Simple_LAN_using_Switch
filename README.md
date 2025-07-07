@@ -69,7 +69,8 @@ PC2 ---/
 
 ## 🖼️ Screenshot of Logical Topology
 
-![Screenshot 2025-07-05 131455](https://github.com/user-attachments/assets/02898da4-0ca0-4fbe-9863-32b50a0aa5aa)
+![Screenshot 2025-07-07 110758](https://github.com/user-attachments/assets/9db5aac7-dae9-4218-8329-1b27d7c1667f)
+
 
 
 ---
